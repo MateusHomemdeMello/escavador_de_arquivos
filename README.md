@@ -20,11 +20,13 @@ Bibliotecas Python:
 - openpyxl (para salvar arquivos Excel)
 
 💻 Como Usar
+
 (1) Selecione a pasta de origem.
 (2) Escolha o nome e local do arquivo .xlsx de saída.
 (3) Aguarde o processamento e escolha se deseja abrir o Excel gerado.
 
 📊 Exemplo de Saída
+
 Arquivo
 C:\Users\Lucas\Documentos\projeto\relatorio.docx
 C:\Users\Lucas\Documentos\projeto\dados\tabela.csv
