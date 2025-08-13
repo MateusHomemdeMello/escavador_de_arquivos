@@ -12,14 +12,14 @@ Ao final do processo, é possível abrir automaticamente o arquivo gerado.
 - Pergunta se deseja abrir o Excel gerado.
 
 📋 Requisitos
-Python 3.8+
+- Python 3.8+
+
 Bibliotecas Python:
-pandas
-tkinter (já incluída na instalação padrão do Python)
-openpyxl (para salvar arquivos Excel)
+- pandas
+- tkinter (já incluída na instalação padrão do Python)
+- openpyxl (para salvar arquivos Excel)
 
 💻 Como Usar
-
 (1) Selecione a pasta de origem.
 (2) Escolha o nome e local do arquivo .xlsx de saída.
 (3) Aguarde o processamento e escolha se deseja abrir o Excel gerado.
