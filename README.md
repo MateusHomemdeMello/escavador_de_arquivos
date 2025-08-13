@@ -1,4 +1,5 @@
 📂 Listar Arquivos e Exportar para Excel
+
 Este script em Python percorre uma pasta e todas as suas subpastas, lista todos os arquivos encontrados e exporta o resultado para uma planilha Excel (.xlsx).
 A ferramenta possui uma interface gráfica simples, construída com Tkinter, que permite ao usuário selecionar a pasta de origem e o nome/local do arquivo de saída.
 Ao final do processo, é possível abrir automaticamente o arquivo gerado.
